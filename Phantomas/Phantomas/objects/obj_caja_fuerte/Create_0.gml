@@ -1,0 +1,1 @@
+palancas = 4;
